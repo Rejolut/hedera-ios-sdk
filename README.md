@@ -13,8 +13,8 @@ The above sdk does not have the smart contract deployment capablities.
 No, we have taken [hedera-rust-sdk developed by launchbadge](https://github.com/launchbadge/hedera-sdk-rust) and built on top of it.
 
 # How to build this sdk?
-1)Clone the above repositories
-2)Cd path to the root folder 
+1)Clone the above repositories<br>
+2)Cd path to the root folder<br> 
 3)Run this command 
 
 # How to run this into the iOS?
