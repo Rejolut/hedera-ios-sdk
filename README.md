@@ -27,6 +27,6 @@ No, this sdk is totally managed by Rejolut and Rejolut is totally responsible fo
 # Is this SDK free to use?
 Yes its free to use and its developed on top of [Launchbadge-Rust-SDK](https://github.com/launchbadge/hedera-sdk-rust) so all the licencing applicable to it will also applicable to Rejolut iOS sdk as it is developed on top of it.
 
-Feel free to contact amit@rejolut.com for any Hedera related Development.
+<b>Feel free to contact amit@rejolut.com for any Hedera related Development</b>
 
 
