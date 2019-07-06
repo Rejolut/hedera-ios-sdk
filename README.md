@@ -15,8 +15,7 @@ No, we have taken [hedera-rust-sdk developed by launchbadge](https://github.com/
 # How to build this sdk?
 1)Clone the above repositories<br>
 2)Cd path to the root folder<br> 
-3)Run this command cd /Users/admin/hashgrh/hedera-sdk-iOS
-cargo lipo --release --targets aarch64-apple-ios armv7-apple-ios armv7s-apple-ios x86_64-apple-ios i386-apple-ios
+3)Run this command cd <b>hedera-sdk-iOS cargo lipo --release --targets aarch64-apple-ios armv7-apple-ios armv7s-apple-ios x86_64-apple-ios i386-apple-ios</b>
 
 # How to run this into the iOS?
 The above steps will generate the target folder. Go to target-> universal->release
