@@ -1,0 +1,6 @@
+# Editor project files
+.idea/
+.vscode/
+
+# Rust artifacts
+target/
