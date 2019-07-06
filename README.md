@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hedera SDK for Rust
 
 [![Crates.io](https://img.shields.io/crates/v/hedera.svg?style=popout-square)](https://crates.io/crates/hedera)
@@ -465,7 +464,6 @@ Version 2.0 – see [LICENSE](LICENSE) in this repo or [apache.org/licenses/LICE
 [09-get-in-touch]: #getting-in-touch
 [10-contribute]: #contributing-to-this-project
 [11-license]: #license-information
-=======
+
 # hedera-ios-sdk
-iOS SDK for Hedera Hashgraph with Smart contract deployment capabilities
->>>>>>> 97c79b14a7cfa5ad5223438232d8371b9bab7ba1
+iOS SDK for Hedera Hashgraph with Smart contract deployment capabiliti
