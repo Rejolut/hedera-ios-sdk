@@ -2,7 +2,7 @@
 
 # About Rejolut
 
-Rejolut is an Award winning company building innovative digital product for the fast moving companies using emerging technology like Machine/Artificial/Deep Learning, Blockchain, IoT, Augemented/Virtual Reality.
+Rejolut is an Award winning company building innovative digital product for the fast moving companies using emerging technology like Machine/Artificial/Deep Learning, Blockchain, IoT, Augmented/Virtual Reality.
 
 # Why iOS sdk despite [hedera-wallet-iOS-sdk](https://github.com/hashgraph/hedera-wallet-ios)?
 
