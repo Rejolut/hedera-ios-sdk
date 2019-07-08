@@ -6,7 +6,7 @@ Rejolut is an Award winning company building innovative digital product for the 
 
 # Why iOS sdk despite [hedera-wallet-iOS-sdk](https://github.com/hashgraph/hedera-wallet-ios)?
 
-The above sdk does not have the smart contract deployment capablities.
+Hedera sdk does not have the smart contract deployment capablities.
 
 # Is this sdk developed from Sratch?
 
