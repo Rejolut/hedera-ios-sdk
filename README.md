@@ -2,11 +2,11 @@
 
 # About Rejolut
 
-Rejolut is an Award winning company building innovative digital product for the fast moving companies using emerging technology like Machine/Artificial/Deep Learning, Blockchain, IoT, Augmented/Virtual Reality.
+Rejolut is an Award winning company building an innovative digital product for fast-moving companies using emerging technology like Machine/Artificial/Deep Learning, Blockchain, IoT, Augmented/Virtual Reality.
 
 # Why iOS sdk despite [hedera-wallet-iOS-sdk](https://github.com/hashgraph/hedera-wallet-ios)?
 
-Hedera sdk does not have the smart contract deployment capablities.
+Hedera sdk does not have the smart contract deployment capabilities.
 
 # Is this sdk developed from Sratch?
 
@@ -25,7 +25,7 @@ It contains libhedera.a which needs to be included in the build phases of iOS pr
 No, this sdk is totally managed by Rejolut and Rejolut is totally responsible for the existing modification.
 
 # Is this SDK free to use?
-Yes its free to use and its developed on top of [Launchbadge-Rust-SDK](https://github.com/launchbadge/hedera-sdk-rust) so all the licencing applicable to it will also applicable to Rejolut iOS sdk as it is developed on top of it.
+Yes its free to use and its developed on top of [Launchbadge-Rust-SDK](https://github.com/launchbadge/hedera-sdk-rust) so all the licensing applicable to it will also applicable to Rejolut iOS sdk as it is developed on top of it.
 
 <b>Feel free to contact amit@rejolut.com for any Hedera related Development</b>
 
