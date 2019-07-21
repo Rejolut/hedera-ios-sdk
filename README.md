@@ -8,7 +8,7 @@ Rejolut is an Award winning company building an innovative digital product for f
 
 Hedera sdk does not have the smart contract deployment capabilities.
 
-# Is this sdk developed from Sratch?
+# Is this sdk developed from Scratch?
 
 No, we have taken [hedera-rust-sdk developed by launchbadge](https://github.com/launchbadge/hedera-sdk-rust) and built on top of it.
 
